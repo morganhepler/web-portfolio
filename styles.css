@@ -1,8 +1,8 @@
 /* Set variables to avoid repetitive typing */
 :root {
-    --primary-color: #adf0d4;
-    --secondary-color: #1fd8a4;
-    --bg-color: #0d1512;
+    --primary-color: #4f46e5;
+    --secondary-color: #818cf8;
+    --bg-color: #eef2ff;
 }
 
 * {
@@ -144,6 +144,10 @@ section {
 
 .outreach i {
     transform: rotate(-45deg); /* Wow, so nifty! */
+}
+
+.outreach a {
+    text-decoration: none;
 }
 
 .projectContainer {
